@@ -26,7 +26,7 @@
 name: Chathura Dissanayake
 location: Sri Lanka 🇱🇰
 focus:
-  - Full-stack web development (React, Node.js, .Net)
+  - Full-stack web development (React, Node.js, .Net, Blazor)
   - Cloud & DevOps (AWS, Docker, Actions, Jenkins)
   - Cross-platform mobile apps (Flutter)
   - Machine learning & AI (TensorFlow, scikit-learn)
