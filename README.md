@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQEWUWTE25KN_g/profile-displaybackgroundimage-shrink_350_1400/0/1712085737534?e=1723680000&v=beta&t=cb7MjUz_2UX3yhrj472HbOJmOZD5SIK7yund82b1Mng">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEWUWTE25KN_g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712085737534?e=1729728000&v=beta&t=QS1QCSWsF20ku8Exp6Y4l5VuRTdINg1pIrvshUMWrJ0">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
