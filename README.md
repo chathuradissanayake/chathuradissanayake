@@ -78,15 +78,6 @@ open_to: [Freelance, Full-time, Open-source collaboration]
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
----
-
-## 🏆 GitHub trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=chathuradissanayake&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
 
 ---
 
