@@ -1,16 +1,7 @@
 <div align="center">
 
 <!-- Wave Banner -->
-<img src="https://github.com/chathuradissanayake/chathuradissanayake/blob/main/banner.png">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chathura-dissanayake/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chathuradissanayake)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/Chathura.dissanayake98)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr__chathurad/)
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1e2e,100:0d1117&height=120&section=header&text=Hey%2C%20I'm%20Chathura%20%F0%9F%91%8B&fontSize=32&fontColor=58a6ff&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20ML%20Developer&descAlignY=55&descColor=8b949e" alt="banner"/>
 
 <!-- Status badge -->
 ![Status](https://img.shields.io/badge/Status-Available%20for%20Work-3fb950?style=flat-square&logo=statuspage&logoColor=white)
@@ -26,13 +17,40 @@
 name: Chathura Dissanayake
 location: Sri Lanka 🇱🇰
 focus:
-  - Full-stack web development (React, Node.js, .Net)
-  - Cloud & DevOps (AWS, Docker, Jenkins)
+  - Full-stack web development (React, Node.js)
   - Cross-platform mobile apps (Flutter)
   - Machine learning & AI (TensorFlow, scikit-learn)
-currently_learning: [Kubernetes, Next.js, Springboot]
+  - Cloud & DevOps (Azure, Docker, Jenkins)
+currently_learning: [Kubernetes, Next.js, LLM fine-tuning]
 open_to: [Freelance, Full-time, Open-source collaboration]
 ```
+
+---
+
+## 🏆 GitHub trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=chathuradissanayake&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chathuradissanayake&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=58a6ff"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chathuradissanayake&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chathuradissanayake&theme=github_dark&hide_border=true&layout=compact&title_color=58a6ff&langs_count=8)
+
+</div>
 
 ---
 
@@ -78,6 +96,7 @@ open_to: [Freelance, Full-time, Open-source collaboration]
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
+<<<<<<< HEAD
 
 ---
 
@@ -100,12 +119,25 @@ open_to: [Freelance, Full-time, Open-source collaboration]
 
 
 
+=======
+---
+
+>>>>>>> 40eeb8c0befa19f8e5018c5433c2fa3f25647717
 ## 📈 Activity graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chathuradissanayake&theme=react-dark&hide_border=true&area=true)
 
 ---
 
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chathura-dissanayake/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chathuradissanayake)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/Chathura.dissanayake98)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr__chathurad/)
+
+---
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1e2e,100:0d1117&height=80&section=footer" alt="footer"/>
 </div>
