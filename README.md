@@ -3,16 +3,18 @@
 <!-- Wave Banner-->
 <img src="https://github.com/chathuradissanayake/chathuradissanayake/blob/main/banner.png">
 
-<img src="https://github.com/chathuradissanayake/chathuradissanayake/blob/main/hero-ASCII-CL.svg" alt="Chathura Dissanayake - Developer profile" width="100%">
+<!--ASCII PORTRAIT -->
+<img src="./assets/hero-ASCII-CL.svg" alt="Chathura Dissanayake - Developer profile" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chathura-dissanayake/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chathuradissanayake)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/Chathura.dissanayake98)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the__chatd/)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/chathura-dissanayake/"><img src="./assets/badge-linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://github.com/chathuradissanayake"><img src="./assets/badge-github.svg" alt="GitHub"></a>
+  <a href="https://web.facebook.com/Chathura.dissanayake98"><img src="./assets/badge-facebook.svg" alt="Facebook"></a>
+  <a href="https://www.instagram.com/the__chatd/"><img src="./assets/badge-instagram.svg" alt="Instagram"></a>
+</p>
 
 <!-- Status badge -->
 ![Status](https://img.shields.io/badge/Status-Available%20for%20Work-3fb950?style=flat-square&logo=statuspage&logoColor=white)
