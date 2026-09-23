@@ -1,11 +1,7 @@
 <div align="center">
 
-
 <!--ASCII PORTRAIT -->
 <img src="./assets/hero-ASCII-CL.svg" alt="Chathura Dissanayake - Developer profile" width="100%">
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chathura-dissanayake/"><img src="./assets/badge-linkedin.svg" alt="LinkedIn"></a>
