@@ -1,5 +1,7 @@
 <div align="center">
 
+<!-- Wave Banner-->
+<img src="https://github.com/chathuradissanayake/chathuradissanayake/blob/main/banner.png">
 
 <!--ASCII PORTRAIT -->
 <img src="./assets/hero-ASCII-CL.svg" alt="Chathura Dissanayake - Developer profile" width="100%">
