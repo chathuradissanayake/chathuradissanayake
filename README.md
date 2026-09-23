@@ -3,6 +3,8 @@
 <!-- Wave Banner-->
 <img src="https://github.com/chathuradissanayake/chathuradissanayake/blob/main/banner.png">
 
+<img src="https://github.com/chathuradissanayake/chathuradissanayake/blob/main/hero-ASCII-CL.svg" alt="Chathura Dissanayake - Developer profile" width="100%">
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
